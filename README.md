@@ -29,7 +29,7 @@ https://www.linkedin.com/in/keabetswe-junior-972353270?utm_source=share&utm_camp
 
 Github
 https://github.com/KeabetsweMP
-
+https://github.com/Tshepang997
 
 
 Twitter 
@@ -38,10 +38,8 @@ https://x.com/KeaBee26?t=Wms7eOT8JzLxhBwa7MMHWg&s=09
 
 
 
-
-
 *link to the github repository
-
+https://github.com/Tshepang997/Project_landing_page.git
 
 
 
